@@ -12,7 +12,7 @@ public class Ex02 {
 
 		a = a.concat(b);
 		System.out.println(a);
-		
+
 		a = a.trim();
 		System.out.println(a.trim());
 

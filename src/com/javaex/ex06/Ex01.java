@@ -21,8 +21,6 @@ public class Ex01 {
 		System.out.println(s04.toString());
 
 		System.out.println(s03 == s04);
-		
-		
 
 	}
 
